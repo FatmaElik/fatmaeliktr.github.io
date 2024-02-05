@@ -1,7 +1,7 @@
 # fatmaeliktr.github.io
 
 ## Hakkımda 🎈
-Ben Fatma Elik. 
+Ben Fatma Elik. Mekansal verileri, Uzaktan Algılama y ve Bilgisayarlı Görü öntemleri ile kullanıp Afet Yöentim Sistemleri üzerine araştırma yapıyorum. İstanbul Büyükşehir Belediyesinde çalışıyorum.
 
 ## Deneyim 📊
 
